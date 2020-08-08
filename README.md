@@ -1,2 +1,2 @@
-# Brawler
-Bilibili Crawler is a study project
+# OBili
+Observe Bilibili is a crawler study project
